@@ -1,25 +1,24 @@
 {
-    "name":"Budget App",
-    "short_name": "Budget App",
+  "name": "Budget App",
+  "short_name": "Budget App",
 
-    "icons":[
-        {
-            "src":"icons/icon-192x192.png",
-        }
-    ],
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
 
-    "name":,
+  "theme_color": "#ffffff",
 
-    "name":,
+  "background_color": "#ffffff",
 
-    "name":,
-    "name":,
-    "name":,
-    "name":,
-    "name":,
-    "name":,
-    "name":,
-    "name":,
-
-    
+  "start_url": "/",
+  "display": "standalone"
 }
